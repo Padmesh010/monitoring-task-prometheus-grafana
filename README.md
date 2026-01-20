@@ -50,9 +50,9 @@ Node Exporter → Prometheus → Grafana Dashboard
 
 ---
 
-## Screenshots
+## Screenshots are available in Documentation folder
 
-All output proof screenshots are available in the `screenshots/` folder:
+All output proof screenshots are available in the `Documentation/` folder:
 
 - EC2 instance running  
 - Prometheus UI  
